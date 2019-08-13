@@ -7,6 +7,6 @@ It shows how to apply a Reinforcement Learning algorithm called Policy Gradients
 One of the most frequent questions that was asked was: How to train Deep Reinforcement Learning algorithms if you are starting from scratch? Here is a list of (zero to one) resources:
 
  - Reinforcement Learning Lectures by David Silver (https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
- - The Nature papure on Deep-Q-Learning (https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+ - The Nature paper on Deep-Q-Learning (https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
  - The blog post on Policy Gradients by Andrej Karpathy (http://karpathy.github.io/2016/05/31/rl/)
  - The paper on Deep Deterministic Policy Gradients (https://arxiv.org/abs/1509.02971)
